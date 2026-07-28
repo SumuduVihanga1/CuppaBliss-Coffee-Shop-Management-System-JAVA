@@ -84,7 +84,7 @@ database(cuppabliss)/cuppabliss40.sql
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/SumuduVihanga1/CuppaBliss.git
+git clone https://github.com/SumuduVihanga1/CuppaBliss-Coffee-Shop-Management-System-JAVA.git
 ```
 
 2. Open the project in NetBeans.
