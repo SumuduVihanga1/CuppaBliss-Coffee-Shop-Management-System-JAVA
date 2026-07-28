@@ -166,7 +166,6 @@ database(cuppabliss)/cuppabliss40.sql
 ---
 
 
----
 
 ## 👨‍💻 Author
 
