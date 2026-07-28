@@ -110,6 +110,18 @@ String password = "";
 6. Build and Run the project.
 
 ---
+## 🔑 Default Login Credentials
+
+```
+MANAGER ROLE
+Username: manager
+Password: 123
+```
+```
+BARISTA ROLE
+Username: barista
+Password: 123
+```
 
 ## 📷 Screenshots
 
